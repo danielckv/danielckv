@@ -1,10 +1,15 @@
 ### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-## I'm a Software Engineering manager
-- 🔭  I’m currently a CTO at @boscohq [The Caring Company](https://thecaring.app)
-- ⭐  Expert in Kubernetes architecture
-- ⭐  Former CTO @rapidapi
-- ⚡  Fun fact: I love coffee and Tennis
+## I'm a Software Engineering Manager
+🔭  I’m currently a CTO at @thecaring.app [The Caring Company](https://thecaring.app) <br />
+
+⭐  Expert in Kubernetes architecture <br />
+
+⭐  Former CTO @[rapidapi](https://rapidapi.com) <br />
+
+📍 Tel Aviv-Jaffa, Israel <br />
+
+⚡  Fun fact: I love coffee and Tennis <br />
 
 ### Connect with me:
 
