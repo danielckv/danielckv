@@ -1,17 +1,17 @@
-### Hi there, I'm Daniel - aka danielckv [https://danielckv.com] 👋
+### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
 ## I'm a Software Engineering manager
-- 🔭 I’m currently a CTO at @boscohq [The Caring Company][https://thecaring.app]
+- 🔭 I’m currently a CTO at @boscohq [The Caring Company](https://thecaring.app)
 - ⭐ Expert in Kubernetes architecture
 - ⭐ Former CTO @rapidapi
 - ⚡ Fun fact: I love coffee and Tennis
 
 ### Connect with me:
 
-[<img align="left" alt="danielckv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://danielckv.com]
-[<img align="left" alt="danielckv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/danielckv]
-[<img align="left" alt="Daniel Chernenkov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/danielckv/]
-[<img align="left" alt="danielckv.png | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/danielckv.png]
+[<img align="left" alt="danielckv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://danielckv.com)
+[<img align="left" alt="danielckv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/danielckv)
+[<img align="left" alt="Daniel Chernenkov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielckv/)
+[<img align="left" alt="danielckv.png | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/danielckv.png)
 
 <br />
 
