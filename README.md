@@ -1,11 +1,11 @@
 ### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
 ## I'm a Software Engineering Manager
-🔭  &nbsp;I’m currently a CTO at @alerteenz [The Caring Company](https://thecaring.app) <br />
+🔭  &nbsp;I’m currently a CTO at Alerteenz [The Caring Company](https://thecaring.app) <br />
 
 ⭐  &nbsp;Expert in Kubernetes architecture <br />
 
-⭐  &nbsp;Former CTO @[rapidapi](https://rapidapi.com) <br />
+⭐  &nbsp;Former CTO [rapidapi](https://rapidapi.com) <br />
 
 📍 &nbsp;Tel Aviv-Jaffa, Israel <br />
 
