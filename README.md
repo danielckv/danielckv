@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
 ## I'm a Software Engineering Manager
-🔭  &nbsp;I’m currently a CTO at Alerteenz [The Caring Company](https://thecaring.app) <br />
+🔭  &nbsp;I’m currently a VP Software Engineering at DermaDetect [DermaDetect](https://dermadetect.com) <br />
 
 ⭐  &nbsp;Expert in Kubernetes architecture <br />
 
