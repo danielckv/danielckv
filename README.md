@@ -1,6 +1,5 @@
 ### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-## I'm a Software Engineering Manager
 🔭  &nbsp;Currently a VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
 
 ⭐  &nbsp;Expert in Kubernetes architecture <br />
