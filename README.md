@@ -1,12 +1,12 @@
 ### I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-🔭  &nbsp;Now Engineering Manager at [DermaDetect](https://dermadetect.com) <br />
+🔭  &nbsp;&nbsp;Now Engineering Manager at [Bigabid, Inc](https://bigabid.com) <br />
 
-⭐  &nbsp;Former VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
+⭐  &nbsp;&nbsp;Former VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
 
-⭐  &nbsp;Expert in Kubernetes architecture <br />
+⭐  &nbsp;&nbsp;Expert in Kubernetes architecture <br />
 
-⭐  &nbsp;Former CTO [rapidapi](https://rapidapi.com) <br />
+⭐  &nbsp;&nbsp;Former CTO [rapidapi](https://rapidapi.com) <br />
 
 
 ### Connect with me:
