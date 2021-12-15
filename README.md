@@ -1,14 +1,13 @@
-### Hi there, I'm Daniel - aka [danielckv](https://danielckv.com) 👋
+### I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-🔭  &nbsp;Currently a VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
+🔭  &nbsp;Now Engineering Manager at [DermaDetect](https://dermadetect.com) <br />
+
+⭐  &nbsp;Former VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
 
 ⭐  &nbsp;Expert in Kubernetes architecture <br />
 
 ⭐  &nbsp;Former CTO [rapidapi](https://rapidapi.com) <br />
 
-📍 &nbsp;Tel Aviv-Jaffa, Israel <br />
-
-⚡  &nbsp;Fun fact: I love coffee and Tennis <br />
 
 ### Connect with me:
 
