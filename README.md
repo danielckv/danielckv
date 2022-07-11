@@ -1,24 +1,18 @@
 ### I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-🔭  &nbsp;&nbsp;Now Engineering Manager at [Bigabid, Inc](https://bigabid.com) <br />
+I'm an experienced R&D executive with a proven track record of developing innovative large-scale products that delivered to remote global locations, serving millions of users and Fortune 500 companies leading to $X0,000,000 ARR.
 
-⭐  &nbsp;&nbsp;Former VP Software Engineering at [DermaDetect](https://dermadetect.com) <br />
-
-⭐  &nbsp;&nbsp;Expert in Kubernetes architecture <br />
-
-⭐  &nbsp;&nbsp;Former CTO [rapidapi](https://rapidapi.com) <br />
-
+Led startup companies to production, followed by acquisitions, scaled teams from 1-35 employees, managed on-premise corporate products, and developed highly available cloud architectures.
 
 ### Connect with me:
 
+[<img align="left" alt="Daniel Chernenkov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielckv/)
 [<img align="left" alt="danielckv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://danielckv.com)
 [<img align="left" alt="danielckv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/danielckv)
-[<img align="left" alt="Daniel Chernenkov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielckv/)
 [<img align="left" alt="danielckv.png | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/danielckv.png)
 
 <br />
 <br />
-
 ---
 
 ### 📕 Latest Blog Posts
