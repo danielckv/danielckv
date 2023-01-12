@@ -1,8 +1,8 @@
 ### I'm Daniel - aka [danielckv](https://danielckv.com) 👋
 
-I'm an experienced R&D executive with a proven track record of developing innovative large-scale products that delivered to remote global locations, serving millions of users and Fortune 500 companies leading to $X0,000,000 ARR.
+I'm an experienced R&D executive with a proven track record of developing innovative large-scale products that delivered to remote global locations, serving millions of users and Fortune 500 companies leading to $X,000,000 ARR.
 
-Led startup companies to production, followed by acquisitions, scaled teams from 1-35 employees, managed on-premise corporate products, and developed highly available cloud architectures.
+Led startup companies to production, scaled teams from 1-50 employees, managed on-premise corporate products, and developed highly available cloud architectures.
 
 ### Connect with me:
 
