@@ -13,7 +13,6 @@ Led startup companies to production, scaled teams from 1-50 employees, managed o
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-<br />
 <hr />
 
 ### Connect with me:
